@@ -1,0 +1,15 @@
+E:\Workspace\VSWorkspace\CS-Study\001-开始\bin\Debug\net6.0\001-开始.exe
+E:\Workspace\VSWorkspace\CS-Study\001-开始\bin\Debug\net6.0\001-开始.deps.json
+E:\Workspace\VSWorkspace\CS-Study\001-开始\bin\Debug\net6.0\001-开始.runtimeconfig.json
+E:\Workspace\VSWorkspace\CS-Study\001-开始\bin\Debug\net6.0\001-开始.dll
+E:\Workspace\VSWorkspace\CS-Study\001-开始\bin\Debug\net6.0\001-开始.pdb
+E:\Workspace\VSWorkspace\CS-Study\001-开始\obj\Debug\net6.0\001-开始.csproj.AssemblyReference.cache
+E:\Workspace\VSWorkspace\CS-Study\001-开始\obj\Debug\net6.0\001-开始.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\VSWorkspace\CS-Study\001-开始\obj\Debug\net6.0\001-开始.AssemblyInfoInputs.cache
+E:\Workspace\VSWorkspace\CS-Study\001-开始\obj\Debug\net6.0\001-开始.AssemblyInfo.cs
+E:\Workspace\VSWorkspace\CS-Study\001-开始\obj\Debug\net6.0\001-开始.csproj.CoreCompileInputs.cache
+E:\Workspace\VSWorkspace\CS-Study\001-开始\obj\Debug\net6.0\001-开始.dll
+E:\Workspace\VSWorkspace\CS-Study\001-开始\obj\Debug\net6.0\refint\001-开始.dll
+E:\Workspace\VSWorkspace\CS-Study\001-开始\obj\Debug\net6.0\001-开始.pdb
+E:\Workspace\VSWorkspace\CS-Study\001-开始\obj\Debug\net6.0\001-开始.genruntimeconfig.cache
+E:\Workspace\VSWorkspace\CS-Study\001-开始\obj\Debug\net6.0\ref\001-开始.dll
