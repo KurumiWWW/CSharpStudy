@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\A\\.nuget\\packages\\": {}
+    "C:\\Users\\KurumiW\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Workspace\\VSWorkspace\\CSharpStudy\\001-开始\\001-开始.csproj",
+      "projectUniqueName": "D:\\Workspace\\VisualStudio\\CS-Study\\001-开始\\001-开始.csproj",
       "projectName": "001-开始",
-      "projectPath": "E:\\Workspace\\VSWorkspace\\CSharpStudy\\001-开始\\001-开始.csproj",
-      "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-      "outputPath": "E:\\Workspace\\VSWorkspace\\CSharpStudy\\001-开始\\obj\\",
+      "projectPath": "D:\\Workspace\\VisualStudio\\CS-Study\\001-开始\\001-开始.csproj",
+      "packagesPath": "C:\\Users\\KurumiW\\.nuget\\packages\\",
+      "outputPath": "D:\\Workspace\\VisualStudio\\CS-Study\\001-开始\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KurumiW\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
