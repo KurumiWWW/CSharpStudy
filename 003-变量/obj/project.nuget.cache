@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/eco8U8eYhDk47Z+ihj6knbXU0mg7nX9GfxzeMWQf8exEEFmk6RPDnsZHF3sK7j+Buz7HZAYNB2pitjr4sEOAg==",
+  "dgSpecHash": "3JMv6Eui8q6BuBKYbeNGsnSUPB81MnR3bkrjmhnVwdMczJT6j4lBRKK4iAXyFreeySsW2EsLHqaU6d2UcG76Gw==",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\VisualStudio\\CS-Study\\003-变量\\003-变量.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Workspace\\Rider\\CSharpStudy\\003-变量\\003-变量.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

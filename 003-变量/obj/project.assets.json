@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\KurumiW\\.nuget\\packages\\": {}
+    "C:\\Users\\A\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\VisualStudio\\CS-Study\\003-变量\\003-变量.csproj",
+      "projectUniqueName": "E:\\Workspace\\Rider\\CSharpStudy\\003-变量\\003-变量.csproj",
       "projectName": "003-变量",
-      "projectPath": "D:\\Workspace\\VisualStudio\\CS-Study\\003-变量\\003-变量.csproj",
-      "packagesPath": "C:\\Users\\KurumiW\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\VisualStudio\\CS-Study\\003-变量\\obj\\",
+      "projectPath": "E:\\Workspace\\Rider\\CSharpStudy\\003-变量\\003-变量.csproj",
+      "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
+      "outputPath": "E:\\Workspace\\Rider\\CSharpStudy\\003-变量\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\KurumiW\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,6 +54,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
